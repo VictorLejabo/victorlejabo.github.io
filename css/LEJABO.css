@@ -1,0 +1,53 @@
+header{
+    font-size: 100px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(89, 114, 223);
+}
+p{
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: antiquewhite;
+}
+H1{
+    text-align: left;
+    font-size: 80px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(27, 36, 77);
+}
+.historia{
+    text-align: left;
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: antiquewhite;
+}
+.himno{
+    font-weight: bold;
+    font-size: 1.5vw;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: antiquewhite;
+}
+.himnoo{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 1.5vw;
+    color: antiquewhite;
+}
+body{
+    background-image: url("img/fondo.png");
+    background-size: cover;
+    color: antiquewhite;
+}
+.t_itulos{
+    text-align: left;
+    color: antiquewhite;
+}
